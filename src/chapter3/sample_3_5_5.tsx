@@ -1,3 +1,4 @@
+// @ts-ignore
 const arr = [1, 10, 100]
 arr.push(1000) // 末尾に要素を追加
 console.log(arr)

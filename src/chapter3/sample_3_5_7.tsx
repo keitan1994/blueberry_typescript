@@ -1,4 +1,4 @@
-let tupple: [string, number] = ['foo', 0]
+let tupple = ['foo', 0]
 tupple = ['aiueo', -555]
 
 // @ts-ignore
