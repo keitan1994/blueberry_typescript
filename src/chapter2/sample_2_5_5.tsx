@@ -1,3 +1,4 @@
+// @ts-ignore
 let sum = 0
 let i = 1
 
